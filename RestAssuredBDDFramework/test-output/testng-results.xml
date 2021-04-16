@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17136" started-at="2021-03-16T08:52:04 IST" finished-at="2021-03-16T08:52:21 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17136" started-at="2021-03-16T08:52:04 IST" finished-at="2021-03-16T08:52:21 IST">
+      <class name="com.qa.rest.tests.GetCallBDD">
+        <test-method status="PASS" signature="deleteUser()[pri:0, instance:com.qa.rest.tests.GetCallBDD@76f2b07d]" name="deleteUser" duration-ms="5012" started-at="2021-03-16T08:52:04 IST" finished-at="2021-03-16T08:52:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method status="PASS" signature="test_CreateUser()[pri:0, instance:com.qa.rest.tests.GetCallBDD@76f2b07d]" name="test_CreateUser" duration-ms="3085" started-at="2021-03-16T08:52:09 IST" finished-at="2021-03-16T08:52:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_CreateUser -->
+        <test-method status="PASS" signature="test_NumberOfCircuitsFor2017_Season()[pri:0, instance:com.qa.rest.tests.GetCallBDD@76f2b07d]" name="test_NumberOfCircuitsFor2017_Season" duration-ms="5547" started-at="2021-03-16T08:52:12 IST" finished-at="2021-03-16T08:52:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_NumberOfCircuitsFor2017_Season -->
+        <test-method status="PASS" signature="test_listUsers()[pri:0, instance:com.qa.rest.tests.GetCallBDD@76f2b07d]" name="test_listUsers" duration-ms="486" started-at="2021-03-16T08:52:17 IST" finished-at="2021-03-16T08:52:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_listUsers -->
+        <test-method status="PASS" signature="test_listUsersTest()[pri:0, instance:com.qa.rest.tests.GetCallBDD@76f2b07d]" name="test_listUsersTest" duration-ms="988" started-at="2021-03-16T08:52:18 IST" finished-at="2021-03-16T08:52:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_listUsersTest -->
+        <test-method status="PASS" signature="test_updateUser()[pri:0, instance:com.qa.rest.tests.GetCallBDD@76f2b07d]" name="test_updateUser" duration-ms="1927" started-at="2021-03-16T08:52:19 IST" finished-at="2021-03-16T08:52:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_updateUser -->
+      </class> <!-- com.qa.rest.tests.GetCallBDD -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
